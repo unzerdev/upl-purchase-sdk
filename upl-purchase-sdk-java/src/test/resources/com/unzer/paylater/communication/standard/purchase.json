@@ -1,0 +1,13 @@
+{
+	"result": {
+		"status": "OK",
+		"statusCode": "0.0.0",
+		"statusMessage": "Operation performed sucessfully",
+		"processingStart": "2020-01-01T14:00:00.000+02:00",
+		"processingEnd": "2020-01-01T14:00:00.100+02:00"
+	},
+	"purchase": {
+		"purchaseId": "1",
+		"state": "INITIALIZED"
+	}
+}

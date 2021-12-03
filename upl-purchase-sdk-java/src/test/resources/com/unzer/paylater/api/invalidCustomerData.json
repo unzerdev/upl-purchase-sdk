@@ -1,0 +1,11 @@
+{
+	"result": {
+		"operationId": null,
+		"status": "ERROR",
+		"statusCode": "3.1.0",
+		"statusMessage": "Invalid input data: 'firstName' must match \"^[\\p{IsLatin} ]*$\"",
+		"processingStart": "2020-01-01T12:00:00.000+02:00",
+		"processingEnd": "2020-01-01T12:00:00.000+02:00"
+	},
+	"purchase": null
+}

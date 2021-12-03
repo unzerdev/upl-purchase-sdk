@@ -1,0 +1,15 @@
+\QReceived response (requestId='\E([-a-zA-Z0-9]+)\Q', \E\d+\Q ms):
+  status-code:  '400'
+  headers:      'Content-Type="application/json", Dummy="", Date="\E[^"]+\Q"\E[^']*\Q'
+  content-type: 'application/json'
+  body:         '{
+	"result": {
+		"operationId": null,
+		"status": "ERROR",
+		"statusCode": "3.1.0",
+		"statusMessage": "Invalid input data: 'purchaseAmount' may not be null",
+		"processingStart": "2020-01-02T14:00:00.000+01:00",
+		"processingEnd": "2020-01-02T14:00:00.100+01:00"
+	},
+	"purchase": null
+}'\E

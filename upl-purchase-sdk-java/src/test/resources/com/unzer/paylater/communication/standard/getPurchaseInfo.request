@@ -1,0 +1,4 @@
+\QSending request (requestId='\E([-a-zA-Z0-9]+)\Q'):
+  method:       'GET'
+  uri:          '/purchase/info/1'
+  headers:      'unzer-pl-secret-key="********"\E[^']*\Q'\E

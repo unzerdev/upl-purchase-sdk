@@ -1,0 +1,11 @@
+{
+	"result": {
+		"operationId": null,
+		"status": "ERROR",
+		"statusCode": "4.5.0",
+		"statusMessage": "Full authentication is required to access this resource",
+		"processingStart": "2020-01-01T12:00:00.000+02:00",
+		"processingEnd": "2020-01-01T12:00:00.000+02:00"
+	},
+	"purchase": null
+}

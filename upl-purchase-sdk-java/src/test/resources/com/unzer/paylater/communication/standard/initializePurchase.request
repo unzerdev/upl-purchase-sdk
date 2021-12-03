@@ -1,0 +1,6 @@
+\QSending request (requestId='\E([-a-zA-Z0-9]+)\Q'):
+  method:       'POST'
+  uri:          '/purchase/initialize'
+  headers:      'unzer-pl-secret-key="********", Content-Type="application/json"\E[^']*\Q'
+  content-type: 'application/json; charset=UTF-8'
+  body:         '****'\E

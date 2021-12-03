@@ -1,0 +1,11 @@
+{
+	"result": {
+		"operationId": null,
+		"status": "ERROR",
+		"statusCode": "3.1.0",
+		"statusMessage": "Invalid input data: 'purchaseAmount' may not be null",
+		"processingStart": "2020-07-13T12:06:29.798+02:00",
+		"processingEnd": "2020-07-13T12:06:29.798+02:00"
+	},
+	"purchase": null
+}
